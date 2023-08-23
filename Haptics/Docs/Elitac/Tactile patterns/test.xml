@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ArrayOfAction>
+<Action>
+<Time>0</Time>
+<Address>1</Address>
+<Intensity>0</Intensity>
+<Duration>100</Duration>
+</Action>
+<Action>
+<Time>100</Time>
+<Address>2</Address>
+<Intensity>0</Intensity>
+<Duration>100</Duration>
+</Action>
+<Action>
+<Time>200</Time>
+<Address>3</Address>
+<Intensity>0</Intensity>
+<Duration>100</Duration>
+</Action>
+</ArrayOfAction>

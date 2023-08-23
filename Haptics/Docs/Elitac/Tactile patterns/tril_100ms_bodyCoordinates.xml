@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAction Priority="Now">
+  <displayID>1</displayID>
+  <Action>
+    <Time>0</Time>
+    <circumferenceCoor>0</circumferenceCoor>
+	<verticalCoor>0</verticalCoor>
+	<displayID>1</displayID>
+	<bodyPart>TORSO</bodyPart>
+    <Intensity>15</Intensity>
+    <Duration>100</Duration>
+  </Action>
+</ArrayOfAction>

@@ -1,1 +1,1 @@
-# Project_HoloGait
+# HoloGait-Project

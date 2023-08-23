@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAction Priority="Now">
+  <displayID>65000</displayID>
+  <bodyPart>UNSPECIFIED</bodyPart>
+  <Action>
+    <Time>0</Time>
+    <circumferenceCoor>0</circumferenceCoor>
+	<verticalCoor>0</verticalCoor>
+    <Intensity>15</Intensity>
+    <Duration>200</Duration>
+  </Action>
+</ArrayOfAction>
